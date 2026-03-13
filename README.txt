@@ -1,5 +1,6 @@
 关于HEPS-ID33线站的一些模拟代码，包括多毛细管透镜的单独追迹模拟、含有3×5阵列分析晶体的谱仪光路追迹模拟以及透镜和谱仪结合后的追迹模拟。
-这些工作的软件和代码基础基于github上开源的XRT软件包(XRayTracer)，因此个人运行该代码前需要在python中先下载XRT软件包。
+这些工作的软件和代码基础基于github上开源的XRT软件包(XRayTracer)：https://github.com/kklmn/xrt
+因此个人运行该代码前需要在python中先下载XRT软件包。
 对于线站相关人员，可通过登录HEPS计算分析服务平台：https://torch.heps.ihep.ac.cn/
 直接使用内部的离线计算服务，申请通用应用服务“xfce4xrt”的使用机时，具体的操作步骤已经在“说明.pptx”中展示。
 
